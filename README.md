@@ -8,7 +8,7 @@ curso "_Análise e Desenvolvimento de Sistemas_ ".
 
 
 
-- **APP de Vendas.**
+- **App de Vendas.**
 
 ​      **Objetivo:**  Calculo de desconto baseado na quantidade de produtos comprados.
 
